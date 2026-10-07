@@ -144,7 +144,7 @@
 
 <div align="center"><img src="assets/section-connect.svg" alt="Connect With Me" width="100%"/></div>
 
-<p align="left">
+<p align="center">
   <a href="mailto:aishwaryayakkara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
