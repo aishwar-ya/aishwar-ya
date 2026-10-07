@@ -28,8 +28,8 @@
   - **[SmartFile](https://github.com/aishwar-ya/SmartFile)**: duplicate detection & storage optimization (FastAPI + React + SHA-256)
   - **[VijayaGreen](https://github.com/aishwar-ya/VijayaGreen)**: garden & nursery accounting app for a family business (Flutter + SQLite)
   - **[medi_mate](https://github.com/aishwar-ya/medi_mate)**: Flutter medication management app with reminders, hydration tracking, stock monitoring, barcode scanning, and voice reminders
-  - **Smart Patient Care System**: healthcare project built around hand gesture recognition *(private)*
   - **[cyber-crime-lab](https://github.com/aishwar-ya/cyber-crime-lab)**: digital evidence management with MD5 / SHA-256 hash verification and chain of custody (Flask)
+  - **Smart Patient Care System**: healthcare project built around hand gesture recognition *(private)*
 - 🛠️ **Tech stack:** Python, FastAPI, Flask, React, JavaScript, Flutter, Dart, SQLite, Git
 - 🌱 **Learning:** Advanced Data Structures, System Design, Cloud Security
 - 💬 **Ask me about:** Python scripting, REST APIs, hashing algorithms, backend architecture
