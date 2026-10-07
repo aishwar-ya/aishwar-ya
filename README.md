@@ -224,9 +224,9 @@ A small Python project built to explore randomization, loops, conditions, and ba
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aishwar-ya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
+[![Aiswarya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aishwar-ya&show_icons=true&theme=transparent&hide_border=true)](https://github.com/aishwar-ya)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar-ya&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar-ya&layout=compact&theme=transparent&hide_border=true)](https://github.com/aishwar-ya)
 
 </div>
 
