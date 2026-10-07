@@ -4,12 +4,6 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=Software+Developer;Python+%26+FastAPI+Enthusiast;Building+Healthcare+%26+File+Systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -31,8 +25,6 @@
 - 🛠️ **Tech stack:** Python, FastAPI, React, JavaScript, Git
 - 🌱 **Learning:** Advanced Data Structures, System Design, Cloud Security
 - 💬 **Ask me about:** Python scripting, REST APIs, hashing algorithms, backend architecture
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🚀 Featured Projects
 
@@ -90,8 +82,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aishwar-ya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar-ya&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
-
-<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🎯 What I'm Looking For
 
