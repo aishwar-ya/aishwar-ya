@@ -1,74 +1,88 @@
-# Hi, I'm Aiswarya 👋  
-**Software Developer • Python & FastAPI • Healthcare & File Systems**
+<div align="center">
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&width=450&lines=Software+Developer;Python+%26+FastAPI+Enthusiast;Building+Healthcare+%26+File+Systems" alt="Typing SVG" />
-</p>
+<img src="assets/hero.svg" alt="Hi, I'm Aiswarya - Software Developer" width="100%"/>
 
----
+<br/>
+
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=560&lines=Software+Developer;Python+%26+FastAPI+Enthusiast;Building+Healthcare+%26+File+Systems" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<img src="assets/divider.svg" width="100%" alt=""/>
+
+</div>
 
 ## 💫 About Me
 
-> I build **secure, scalable backends** and **clean frontends** for healthcare and file‑system tools, with a focus on **FastAPI**, **React**, and **good system design**.
+> I build **secure, scalable backends** and **clean frontends** for healthcare and file-system tools, with a focus on **FastAPI**, **React**, and **good system design**.
 
 - 🔭 **Currently working on:**
-  - **[SmartFile](https://github.com/aishwar-ya/SmartFile)** – Duplicate detection & storage optimization (FastAPI + React + SHA‑256).
-  - **[medi_mate](https://github.com/aishwar-ya/medi_mate)** & **Smart Patient Care System** – Healthcare management solutions.
-  - **[cyber-crime-lab](https://github.com/aishwar-ya/cyber-crime-lab)** – Cybersecurity experiments and lab projects.
-- 🛠️ **Tech Stack:** Python, FastAPI, React, JavaScript, Git.
-- 🌱 **Learning:** Advanced Data Structures, System Design, Cloud Security.
-- 💬 **Ask me about:** Python scripting, REST APIs, hashing algorithms, backend architecture.
+  - **[SmartFile](https://github.com/aishwar-ya/SmartFile)**: duplicate detection & storage optimization (FastAPI + React + SHA-256)
+  - **[medi_mate](https://github.com/aishwar-ya/medi_mate)** & **Smart Patient Care System**: healthcare management solutions
+  - **[cyber-crime-lab](https://github.com/aishwar-ya/cyber-crime-lab)**: cybersecurity experiments and lab projects
+- 🛠️ **Tech stack:** Python, FastAPI, React, JavaScript, Git
+- 🌱 **Learning:** Advanced Data Structures, System Design, Cloud Security
+- 💬 **Ask me about:** Python scripting, REST APIs, hashing algorithms, backend architecture
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 🚀 Featured Projects
 
-### 🗂️ SmartFile  
-**Duplicate detection & storage optimization system**  
-`FastAPI` `React` `SHA‑256`
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- Detects duplicate files using content-based hashing.
-- Exposes a REST API for upload, scan, and cleanup.
-- React frontend for interactive file management.
+### 🗂️ SmartFile
+**Duplicate detection & storage optimization**
 
-🔗 [View on GitHub](https://github.com/aishwar-ya/SmartFile)
+`FastAPI` `React` `SHA-256`
 
----
+- Detects duplicate files using content-based hashing
+- REST API for upload, scan, and cleanup
+- React frontend for interactive file management
 
-### 🏥 medi_mate & Smart Patient Care System  
-**Healthcare management solutions**  
+[**View on GitHub →**](https://github.com/aishwar-ya/SmartFile)
+
+</td>
+<td width="33%" valign="top">
+
+### 🏥 medi_mate
+**Healthcare management solutions**
+
 `Python` `FastAPI` `React`
 
-- Manages patient records, appointments, and core workflows.
-- Emphasis on secure data handling and intuitive UX.
+- Manages patient records, appointments, and core workflows
+- Emphasis on secure data handling and intuitive UX
+- Part of the Smart Patient Care System work
 
-🔗 [View on GitHub](https://github.com/aishwar-ya/medi_mate)
+[**View on GitHub →**](https://github.com/aishwar-ya/medi_mate)
 
----
+</td>
+<td width="33%" valign="top">
 
-### 🔐 cyber-crime-lab  
-**Cybersecurity experiments & lab projects**  
+### 🔐 cyber-crime-lab
+**Cybersecurity experiments & labs**
+
 `Python` `Security` `Labs`
 
-- Hands-on experiments with security tools and concepts.
-- Great for learning and demonstrating security fundamentals.
+- Hands-on experiments with security tools and concepts
+- Useful for learning and demonstrating security fundamentals
 
-🔗 [View on GitHub](https://github.com/aishwar-ya/cyber-crime-lab)
+[**View on GitHub →**](https://github.com/aishwar-ya/cyber-crime-lab)
 
----
+</td>
+</tr>
+</table>
 
-## 🛠️ Tech Stack & Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
-
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
 
 ## 📊 GitHub Stats
 
@@ -77,7 +91,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwar-ya&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </p>
 
----
+<div align="center"><img src="assets/divider.svg" width="100%" alt=""/></div>
+
+## 🎯 What I'm Looking For
+
+- **Backend / Full-stack** roles with **Python**, **FastAPI**, or **Node/React**
+- Work on **scalable APIs**, **secure systems**, and **data-heavy applications**
+- Teams that value **clean code**, **tests**, and **thoughtful design**
 
 ## 📬 Connect With Me
 
@@ -93,16 +113,12 @@
   </a>
 </p>
 
----
+<div align="center">
 
-## 🎯 What I’m Looking For
+<img src="assets/divider.svg" width="100%" alt=""/>
 
-- **Backend / Full‑stack** roles with **Python**, **FastAPI**, or **Node/React**.
-- Work on **scalable APIs**, **secure systems**, and **data-heavy applications**.
-- Teams that value **clean code**, **tests**, and **thoughtful design**.
+*Running on code and coffee, still shipping.* 🌙
 
----
+**If you like what I build, let's connect!** 🚀
 
-<p align="center">
-  <em>If you like what I build, let’s connect! 🚀</em>
-</p>
+</div>
