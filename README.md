@@ -32,7 +32,7 @@ I enjoy working on projects where software solves a real problem — from managi
 - 🗂️ [**SmartFile**](https://github.com/aishwar-ya/SmartFile) — Duplicate file detection & storage optimization using FastAPI, React and SHA-256
 - 🌿 [**VijayaGreen**](https://github.com/aishwar-ya/VijayaGreen) — Garden & nursery accounting application built with Flutter and SQLite
 - 💊 [**medi_mate**](https://github.com/aishwar-ya/medi_mate) — Medication management app with reminders, hydration tracking, stock monitoring, barcode scanning and voice reminders
-- 🖐️ **Smart Patient Care System** — Healthcare application built around hand gesture recognition *(private project)*
+- 🖐️ **Smart Patient Care System** — Healthcare application exploring hand gesture recognition for patient-care interactions *(private project)*
 - 🔐 [**cyber-crime-lab**](https://github.com/aishwar-ya/cyber-crime-lab) — Digital evidence management and forensic hash verification system built with Flask
 
 ### 🌱 Currently Learning
@@ -59,6 +59,7 @@ I enjoy working on projects where software solves a real problem — from managi
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🗂️ SmartFile
@@ -67,7 +68,7 @@ I enjoy working on projects where software solves a real problem — from managi
 
 `FastAPI` `React` `Python` `SQLite` `SHA-256`
 
-A web-based system that identifies duplicate files using content-based hashing and helps users manage unnecessary storage usage.
+A web-based system that identifies duplicate files using content-based hashing and helps users understand and reduce unnecessary storage usage.
 
 **Highlights**
 
@@ -104,9 +105,11 @@ A business-focused accounting application designed for **Vijaya Garden**, a fami
 [**View Repository →**](https://github.com/aishwar-ya/VijayaGreen)
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💊 medi_mate
@@ -138,21 +141,23 @@ A mobile application designed to help users organize medications and maintain da
 
 `Python` `Computer Vision` `Healthcare`
 
-A healthcare-focused application exploring hand gesture recognition to support patient-care interactions.
+A healthcare-focused application exploring hand gesture recognition to support patient-care interactions and provide an alternative interaction method in a healthcare environment.
 
 **Highlights**
 
 - 🖐️ Hand gesture recognition
 - 🏥 Healthcare-focused workflow
 - 🤖 Computer vision concepts
-- 🔒 Private repository
+- 🔒 Private project
 
 *Repository is currently private.*
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🔐 cyber-crime-lab
@@ -161,7 +166,7 @@ A healthcare-focused application exploring hand gesture recognition to support p
 
 `Python` `Flask` `SQLite` `Cybersecurity`
 
-A digital forensic management system for organizing cases and maintaining evidence integrity.
+A digital forensic management system for organizing cases, handling digital evidence, and maintaining evidence integrity.
 
 **Highlights**
 
@@ -183,7 +188,7 @@ A digital forensic management system for organizing cases and maintaining eviden
 
 `Python`
 
-A small Python project built to explore randomization, loops, conditions and basic game logic.
+A small Python project built to explore randomization, loops, conditions, and basic game logic.
 
 **Highlights**
 
@@ -195,6 +200,7 @@ A small Python project built to explore randomization, loops, conditions and bas
 [**View Repository →**](https://github.com/aishwar-ya/slot_machine-game)
 
 </td>
+
 </tr>
 </table>
 
@@ -202,29 +208,15 @@ A small Python project built to explore randomization, loops, conditions and bas
 
 ## 🧰 Tech Stack
 
-### 💻 Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-
-### ⚙️ Backend
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-
-### 🎨 Frontend & Mobile
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### 🗄️ Databases & Tools
-
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+| Area | Technologies |
+|---|---|
+| 💻 **Languages** | Python · JavaScript · Dart |
+| ⚙️ **Backend** | FastAPI · Flask · REST APIs |
+| 🎨 **Frontend** | React |
+| 📱 **Mobile** | Flutter |
+| 🗄️ **Databases** | SQLite · Supabase |
+| 🔐 **Security** | SHA-256 · MD5 · Digital Evidence Handling |
+| 🛠️ **Tools** | Git · GitHub |
 
 ---
 
@@ -255,15 +247,31 @@ I'm currently interested in opportunities where I can:
 
 ---
 
-## 📚 What I'm Exploring
+## 📚 Currently Exploring
+
+<div align="center">
+
+![System Design](https://img.shields.io/badge/System%20Design-1E293B?style=for-the-badge)
+![Cloud Security](https://img.shields.io/badge/Cloud%20Security-334155?style=for-the-badge)
+![Backend Architecture](https://img.shields.io/badge/Backend%20Architecture-475569?style=for-the-badge)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-64748B?style=for-the-badge)
+![Secure Development](https://img.shields.io/badge/Secure%20Development-0F172A?style=for-the-badge)
+
+</div>
+
+---
+
+## 💡 Development Interests
 
 ```text
-Backend Development       ████████████████████
-Python & APIs             ████████████████████
-Flutter & Mobile          ██████████████████░░
-System Design             ████████████████░░░░
-Cybersecurity             ███████████████░░░░░
-Cloud Technologies        ████████████░░░░░░░
+Backend Engineering
+REST API Development
+Full-Stack Applications
+Mobile Application Development
+Cybersecurity & Digital Forensics
+Database Design
+Secure Software Development
+System Design
 ```
 
 ---
