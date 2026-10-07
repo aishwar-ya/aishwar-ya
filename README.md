@@ -9,6 +9,8 @@
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<br/>
+
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -155,8 +157,6 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-*Running on code and coffee, still shipping.* 🌙
-
-**If you like what I build, let's connect!** 🚀
+<img src="assets/footer.svg" alt="Running on code and coffee, still shipping. If you like what I build, let's connect!" width="100%"/>
 
 </div>
