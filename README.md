@@ -6,8 +6,12 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <img src="assets/divider.svg" width="100%" alt=""/>
@@ -20,9 +24,11 @@
 
 - 🔭 **Currently working on:**
   - **[SmartFile](https://github.com/aishwar-ya/SmartFile)**: duplicate detection & storage optimization (FastAPI + React + SHA-256)
-  - **[medi_mate](https://github.com/aishwar-ya/medi_mate)** & **Smart Patient Care System**: healthcare management solutions
-  - **[cyber-crime-lab](https://github.com/aishwar-ya/cyber-crime-lab)**: cybersecurity experiments and lab projects
-- 🛠️ **Tech stack:** Python, FastAPI, React, JavaScript, Git
+  - **[VijayaGreen](https://github.com/aishwar-ya/VijayaGreen)**: garden & nursery accounting app for a family business (Flutter + SQLite)
+  - **[medi_mate](https://github.com/aishwar-ya/medi_mate)**: Flutter medication management app with reminders, hydration tracking, stock monitoring, barcode scanning, and voice reminders
+  - **Smart Patient Care System**: healthcare project built around hand gesture recognition *(private)*
+  - **[cyber-crime-lab](https://github.com/aishwar-ya/cyber-crime-lab)**: digital evidence management with MD5 / SHA-256 hash verification and chain of custody (Flask)
+- 🛠️ **Tech stack:** Python, FastAPI, Flask, React, JavaScript, Flutter, Dart, SQLite, Git
 - 🌱 **Learning:** Advanced Data Structures, System Design, Cloud Security
 - 💬 **Ask me about:** Python scripting, REST APIs, hashing algorithms, backend architecture
 
@@ -30,7 +36,7 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🗂️ SmartFile
 **Duplicate detection & storage optimization**
@@ -40,35 +46,80 @@
 - Detects duplicate files using content-based hashing
 - REST API for upload, scan, and cleanup
 - React frontend for interactive file management
+- Safe cleanup with backup & undo
 
 [**View on GitHub →**](https://github.com/aishwar-ya/SmartFile)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### 🏥 medi_mate
-**Healthcare management solutions**
+### 🌿 VijayaGreen
+**Garden & nursery accounting application**
 
-`Python` `FastAPI` `React`
+`Flutter` `Dart` `SQLite`
 
-- Manages patient records, appointments, and core workflows
-- Emphasis on secure data handling and intuitive UX
-- Part of the Smart Patient Care System work
+- Built for Vijaya Garden, a family-owned nursery business
+- Income, expenses, ledger, customers, suppliers, and reports
+- All records stored locally in SQLite
+
+[**View on GitHub →**](https://github.com/aishwar-ya/VijayaGreen)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💊 medi_mate
+**Medication management app**
+
+`Flutter` `Dart` `Healthcare`
+
+- Medicine management with scheduled reminders
+- Hydration tracking and medicine stock monitoring
+- Barcode scanning and voice-based reminders
 
 [**View on GitHub →**](https://github.com/aishwar-ya/medi_mate)
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### 🖐️ Smart Patient Care System
+**Hand gesture recognition for healthcare**
+
+`Python` `Healthcare`
+
+- Patient-care system built around hand gesture recognition
+
+🔒 *Private repository*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🔐 cyber-crime-lab
-**Cybersecurity experiments & labs**
+**Digital evidence management & forensic hash verification**
 
-`Python` `Security` `Labs`
+`Python` `Flask` `SQLite`
 
-- Hands-on experiments with security tools and concepts
-- Useful for learning and demonstrating security fundamentals
+- Create cases and upload digital evidence
+- MD5 and SHA-256 hashes with a chain-of-custody log
+- PDF forensic case reports
 
 [**View on GitHub →**](https://github.com/aishwar-ya/cyber-crime-lab)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎰 slot_machine-game
+**Small Python game**
+
+`Python`
+
+- Picks three random symbols using the `random` module
+- Jackpot when all three are 7️⃣
+
+[**View on GitHub →**](https://github.com/aishwar-ya/slot_machine-game)
 
 </td>
 </tr>
@@ -85,7 +136,7 @@
 
 ## 🎯 What I'm Looking For
 
-- **Backend / Full-stack** roles with **Python**, **FastAPI**, or **Node/React**
+- **Backend / Full-stack** roles with **Python**, **FastAPI**, **Node/React**, or **Flutter**
 - Work on **scalable APIs**, **secure systems**, and **data-heavy applications**
 - Teams that value **clean code**, **tests**, and **thoughtful design**
 
